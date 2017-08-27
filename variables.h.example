@@ -1,0 +1,16 @@
+/*
+  This is an example file for configuring the project.
+  Adjust the variables below as necessary and save as variables.h
+*/
+
+#ifndef variables_h
+#define variables_h true
+
+#define IS_DEBUG true
+
+#define WIFI_SSID "TooFlyForAWiFi"
+#define WIFI_SHAREDKEY "trustyourtechnolust"
+
+#define LIFX_DEVICE_MAC {0xDE,0xAD,0xBE,0xEF,0xFE,0xED}
+
+#endif
